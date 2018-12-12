@@ -1,1 +1,2 @@
-test123
+def test():
+    print("test")
